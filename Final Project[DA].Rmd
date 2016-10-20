@@ -1,9 +1,5 @@
----
-title: "Data Analysis Final Project"
-author: "Chen Zheyuan Celia"
-date: "December 19, 2015"
-output: html_document
----
+
+How to parent out the most AWESOME Kids?
 
 ```{r}
 d <- da21600.0001
